@@ -25,12 +25,12 @@
       }
       &.active {
         > a {
-          background: $primary;
+          background: #790000;
           text-decoration: none;
           color: #ffffff;
           &:hover {
             text-decoration: none;
-            background: $primary;
+            background: #790000;
             transition: all 225ms ease-in 0s;
             color: #ffffff;
           }
